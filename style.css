@@ -7,7 +7,7 @@ table {
 td,
 th {
   border: 1px solid #cdcdcd;
-  padding: 8px;
+  padding: 30px;
 }
 
 @media only screen and (max-width: 760px),
