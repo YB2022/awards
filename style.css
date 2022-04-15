@@ -35,7 +35,7 @@ th {
     border: none;
     border-bottom: 1px solid #eee;
     position: relative;
-    padding-left: 10% !important;
+    padding-left: 0 !important;
     text-align: left !important;
   }
 
