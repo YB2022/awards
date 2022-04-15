@@ -3,6 +3,7 @@ table {
   border: 1px solid #cdcdcd;
   font: normal 12px arial;
   width: 100%;
+  font-size:1.2 em;
 }
 td,
 th {
