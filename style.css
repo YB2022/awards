@@ -3,7 +3,6 @@ table {
   border: 1px solid #cdcdcd;
   font: normal 12px arial;
   width: 100%;
-  font-size:1.2 em;
 }
 td,
 th {
@@ -23,7 +22,6 @@ th {
   }
 
   thead tr {
-    font-size: 2.5 rem;
     position: absolute;
     top: -9999px;
     left: -9999px;
